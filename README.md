@@ -49,8 +49,8 @@
 <a target="_blank" href="https://www.youtube.com/@kashminshrestha" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/16943266" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashminshrestha&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashminshrestha" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashminshrestha&show_icons=true" alt="GitHub Stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashminshrestha&amp;" alt="kashminshrestha">
 </p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KashminShrestha" alt="KashminShrestha" /></a></p>
