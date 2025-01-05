@@ -59,9 +59,7 @@
 <a href="https://www.buymeacoffee.com/kashmin">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
-</p>
-<p>
-<a href="https://www.ko-fi.com/kashmin">
+  <a href="https://www.ko-fi.com/kashmin">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
 </a>
 </p>
