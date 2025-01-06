@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kashmin Shrestha</h1>
 <h3 align="center">A passionate Software Engineer & Cybersecurity Enthusiast from Nepal.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashminshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="kashminshrestha" /> </p>
 
 - 🔭 I’m currently working on [Restaurant Management System](https://github.com/KashminShrestha/RestaurantManagementSystem)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashminshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="kashminshrestha" /> </p>
 
 - 🌱 I’m currently learning **Java, Data Science**
 
