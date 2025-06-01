@@ -82,7 +82,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kashminshrestha&show_icons=true" alt="GitHub Stats" />
 <!--   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashminshrestha&amp;" alt="kashminshrestha"> -->
 </p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KashminShrestha" alt="KashminShrestha" /></a></p>
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KashminShrestha" alt="KashminShrestha" /></a></p> -->
 <br/> 
 <h2>❤️ Support Me</h2>
 <p><p>
