@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashmin Shrestha</h1>
 <h3 align="center">A passionate Software Engineer & Cybersecurity Enthusiast from Nepal.</h3>
 
-- 🔭 I’m currently working on [Ticketing System](https://github.com/KashminShrestha/Bus-Ticketing-System)
+- 🔭 I’m currently working on [Event Management System](https://github.com/KashminShrestha/Event-and-Festival-Promotion)
 
 - 🌱 I’m currently learning **Java, Data Science**
 
